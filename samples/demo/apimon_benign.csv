@@ -1,0 +1,11 @@
+API Name,Result,Process
+GetModuleHandleW,SUCCESS,benign_sample.exe
+GetProcAddress,SUCCESS,benign_sample.exe
+GetCommandLineW,SUCCESS,benign_sample.exe
+GetStartupInfoW,SUCCESS,benign_sample.exe
+GetModuleFileNameW,SUCCESS,benign_sample.exe
+GetCurrentProcessId,SUCCESS,benign_sample.exe
+GetCurrentThreadId,SUCCESS,benign_sample.exe
+QueryPerformanceCounter,SUCCESS,benign_sample.exe
+GetSystemTimeAsFileTime,SUCCESS,benign_sample.exe
+ExitProcess,SUCCESS,benign_sample.exe
